@@ -1,0 +1,10 @@
+ApiClient/target/
+ApiIntegrationTest/target/
+ConfigurationService/target/
+DomainLib/target/
+PersonService/target/
+ProductService/target/
+RestLib/target/
+
+.iml
+*.idea/

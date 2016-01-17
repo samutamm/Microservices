@@ -1,0 +1,12 @@
+{
+  endpoint: {
+    persons: "http://localhost:4567/persons",
+    products: "http://localhost:4568/products",
+    session: "http://localhost:4567/session",
+    token: "http://localhost:4567/tokens"
+  },
+  mongoUrl: "mongodb://ohtu:ohtu@ds055842.mongolab.com:55842/kanta1",
+  mongoDb: "kanta1",
+  productsPort: 4568,
+  personsPort: 4567
+}
